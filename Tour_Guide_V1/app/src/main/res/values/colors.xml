@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAttractions">#3F51B5</color>
+    <color name="colorBars">#3F51B5</color>
+    <color name="colorEvents">#3F51B5</color>
+    <color name="colorRestaurants">#3F51B5</color>
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#8800A0</color>
+
+</resources>
